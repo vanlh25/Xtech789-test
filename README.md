@@ -13,7 +13,6 @@
 - **Đơn vị ứng tuyển / Doanh nghiệp:** Công ty Cổ phần XTech789
 - **Địa chỉ:** TP. Hồ Chí Minh, Việt Nam
 - **Email:** contact@xtech789.com | tuyendung@xtech789.vn
-- **Bản quyền:** `© 2026 XTech789. All Rights Reserved. Developed by Le Huu Van.`
 
 ---
 
