@@ -1,7 +1,5 @@
 # AURA MODE — Luxury Fashion E-Commerce
 
-> Dự án bài test kỹ thuật Frontend: Tái cấu trúc (Refactor) và hoàn thiện ứng dụng thời trang cao cấp từ Figma prototype sang chuẩn **Client-side MVC**, sử dụng **React + TypeScript + Pure CSS**.
-
 [![React](https://img.shields.io/badge/React-19.x-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
