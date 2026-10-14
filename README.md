@@ -11,7 +11,7 @@
 
 ## 📌 Thông Tin Ứng Viên & Bài Test
 
-- **Người thực hiện:** Lê Hữu Vạn (Le Huu Van)
+- **Người thực hiện:** Lê Hữu Văn (Le Huu Van)
 - **Đơn vị ứng tuyển / Doanh nghiệp:** Công ty Cổ phần XTech789
 - **Địa chỉ:** TP. Hồ Chí Minh, Việt Nam
 - **Email:** contact@xtech789.com | tuyendung@xtech789.vn
